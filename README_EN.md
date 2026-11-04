@@ -4,6 +4,8 @@
 
 A voice effect for drumlogue that transforms incoming speech into a robotic voice.
 
+Don’t forget to amplify your microphone signal to line level before plugging it into the drumlogue’s audio input.
+
 ## Installation
 
 1. Download and extract the ZIP from [Releases](https://github.com/ufotone/LPC-VOICE-FX/releases/latest).
